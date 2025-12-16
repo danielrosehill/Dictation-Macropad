@@ -1,5 +1,7 @@
 # Dictation Macropad Planning
 
+![alt text](screenshots/banner.png)
+
 ## Purpose
 
 This repository is for planning, designing, and configuring macropads optimized for speech-to-text dictation workflows. Speech recognition has replaced traditional typing as the primary text input method, requiring dedicated hardware controls for seamless voice recording and transcription operations.
