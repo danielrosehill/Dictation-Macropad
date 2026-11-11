@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="562" height="652" font-family="sans-serif">
+<rect width="562" height="652" rx="24" fill="#1e1f22"/>
+<rect x="40" y="40" width="110" height="110" rx="12" fill="#2c2e33" stroke="#3b6ea5" stroke-width="4"/>
+<text x="95.0" y="95.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">GAIN −1</text>
+<text x="95.0" y="115.0" fill="#aaa" font-size="12" text-anchor="middle">−1 %</text>
+<rect x="164" y="40" width="110" height="110" rx="12" fill="#2c2e33" stroke="#3b6ea5" stroke-width="4"/>
+<text x="219.0" y="95.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">GAIN +1</text>
+<text x="219.0" y="115.0" fill="#aaa" font-size="12" text-anchor="middle">+1 %</text>
+<rect x="288" y="40" width="110" height="110" rx="12" fill="#2c2e33" stroke="#3b6ea5" stroke-width="4"/>
+<text x="343.0" y="95.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">GAIN −10</text>
+<text x="343.0" y="115.0" fill="#aaa" font-size="12" text-anchor="middle">−10 %</text>
+<rect x="412" y="40" width="110" height="110" rx="12" fill="#2c2e33" stroke="#3b6ea5" stroke-width="4"/>
+<text x="467.0" y="95.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">GAIN +10</text>
+<text x="467.0" y="115.0" fill="#aaa" font-size="12" text-anchor="middle">+10 %</text>
+<rect x="40" y="164" width="110" height="110" rx="12" fill="#2c2e33" stroke="#a53b3b" stroke-width="4"/>
+<text x="95.0" y="219.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">MUTE</text>
+<text x="95.0" y="239.0" fill="#aaa" font-size="12" text-anchor="middle">toggle</text>
+<circle cx="134" cy="180" r="7" fill="#ffcc33" stroke="#000" stroke-width="1"/>
+<rect x="164" y="164" width="110" height="110" rx="12" fill="#2c2e33" stroke="#a53b3b" stroke-width="4"/>
+<text x="219.0" y="219.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">INPUT</text>
+<text x="219.0" y="239.0" fill="#aaa" font-size="12" text-anchor="middle">next source</text>
+<rect x="288" y="164" width="110" height="110" rx="12" fill="#2c2e33" stroke="#5a8a3a" stroke-width="4"/>
+<text x="343.0" y="219.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">AGC</text>
+<text x="343.0" y="239.0" fill="#aaa" font-size="12" text-anchor="middle">toggle</text>
+<circle cx="382" cy="180" r="7" fill="#ffcc33" stroke="#000" stroke-width="1"/>
+<rect x="412" y="164" width="110" height="110" rx="12" fill="#2c2e33" stroke="#5a8a3a" stroke-width="4"/>
+<text x="467.0" y="219.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">ASR CHAIN</text>
+<text x="467.0" y="239.0" fill="#aaa" font-size="12" text-anchor="middle">bypass</text>
+<circle cx="506" cy="180" r="7" fill="#ffcc33" stroke="#000" stroke-width="1"/>
+<rect x="40" y="288" width="110" height="110" rx="12" fill="#2c2e33" stroke="#5a8a3a" stroke-width="4"/>
+<text x="95.0" y="343.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">NOISE</text>
+<text x="95.0" y="363.0" fill="#aaa" font-size="12" text-anchor="middle">removal</text>
+<circle cx="134" cy="304" r="7" fill="#ffcc33" stroke="#000" stroke-width="1"/>
+<rect x="164" y="288" width="110" height="110" rx="12" fill="#2c2e33" stroke="#5a8a3a" stroke-width="4"/>
+<text x="219.0" y="343.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">VAD</text>
+<text x="219.0" y="363.0" fill="#aaa" font-size="12" text-anchor="middle">toggle</text>
+<circle cx="258" cy="304" r="7" fill="#ffcc33" stroke="#000" stroke-width="1"/>
+<rect x="288" y="288" width="110" height="110" rx="12" fill="#2c2e33" stroke="#5a8a3a" stroke-width="4"/>
+<text x="343.0" y="343.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">POST-PROC</text>
+<text x="343.0" y="363.0" fill="#aaa" font-size="12" text-anchor="middle">toggle</text>
+<circle cx="382" cy="304" r="7" fill="#ffcc33" stroke="#000" stroke-width="1"/>
+<rect x="412" y="288" width="110" height="110" rx="12" fill="#2c2e33" stroke="#8a5aa5" stroke-width="4"/>
+<text x="467.0" y="343.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">MODEL</text>
+<text x="467.0" y="363.0" fill="#aaa" font-size="12" text-anchor="middle">cycle</text>
+<rect x="40" y="412" width="110" height="110" rx="12" fill="#2c2e33" stroke="#8a5aa5" stroke-width="4"/>
+<text x="95.0" y="467.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">REC</text>
+<text x="95.0" y="487.0" fill="#aaa" font-size="12" text-anchor="middle">start/stop</text>
+<circle cx="134" cy="428" r="7" fill="#ffcc33" stroke="#000" stroke-width="1"/>
+<rect x="164" y="412" width="110" height="110" rx="12" fill="#2c2e33" stroke="#8a5aa5" stroke-width="4"/>
+<text x="219.0" y="467.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">PAUSE</text>
+<text x="219.0" y="487.0" fill="#aaa" font-size="12" text-anchor="middle">resume</text>
+<circle cx="258" cy="428" r="7" fill="#ffcc33" stroke="#000" stroke-width="1"/>
+<rect x="288" y="412" width="110" height="110" rx="12" fill="#2c2e33" stroke="#8a5aa5" stroke-width="4"/>
+<text x="343.0" y="467.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">RETAKE</text>
+<text x="343.0" y="487.0" fill="#aaa" font-size="12" text-anchor="middle">discard+rec</text>
+<rect x="412" y="412" width="110" height="110" rx="12" fill="#2c2e33" stroke="#8a5aa5" stroke-width="4"/>
+<text x="467.0" y="467.0" fill="#eee" font-size="15" font-weight="bold" text-anchor="middle">ENTER</text>
+<text x="467.0" y="487.0" fill="#aaa" font-size="12" text-anchor="middle">send text</text>
+<rect x="40" y="552" width="16" height="16" rx="3" fill="#3b6ea5"/>
+<text x="62" y="565" fill="#ddd" font-size="12">Gain</text>
+<rect x="165" y="552" width="16" height="16" rx="3" fill="#a53b3b"/>
+<text x="187" y="565" fill="#ddd" font-size="12">Input</text>
+<rect x="290" y="552" width="16" height="16" rx="3" fill="#5a8a3a"/>
+<text x="312" y="565" fill="#ddd" font-size="12">Processing toggles</text>
+<rect x="415" y="552" width="16" height="16" rx="3" fill="#8a5aa5"/>
+<text x="437" y="565" fill="#ddd" font-size="12">Dictation</text>
+<circle cx="48" cy="596" r="7" fill="#ffcc33"/>
+<text x="62" y="601" fill="#ddd" font-size="12">State LED (lit = on / active), driven by the host</text>
+</svg>

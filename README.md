@@ -52,6 +52,7 @@ The macropads control these essential dictation operations:
 ## Repository Structure
 
 - `/macropads/` - Existing hardware documentation
+- [`/layouts/voice-control-16/`](layouts/voice-control-16/) - 16-key (4×4) mic and dictation control pad: gain, mute, input source, AGC / ASR chain / noise / VAD / post-processing toggles with state LEDs, dictation keys. Mockup and hardware fit.
 - `/configurations/` - Key mapping configurations
 - `/designs/` - Custom hardware designs and CAD files
 - `/bom/` - Bills of materials for custom builds
@@ -60,3 +61,15 @@ The macropads control these essential dictation operations:
 ---
 
 **Note**: This is a personal project focused on creating optimal tools for speech-to-text workflows, not a commercial endeavor.
+
+## Layouts
+
+| Layout | Keys | Stage |
+|--------|------|-------|
+| [Voice-Control 16](layouts/voice-control-16/) | 16 (4×4) | ![ideation](https://img.shields.io/badge/stage-ideation-orange) |
+
+## Other macropad ideas
+
+| Repo | What it is | Stage |
+|------|------------|-------|
+| [Claude-Pad](https://github.com/danielrosehill/Claude-Pad) | Macropad for driving Claude Code, with a host-driven status LED | ![ideation](https://img.shields.io/badge/stage-ideation-orange) |
